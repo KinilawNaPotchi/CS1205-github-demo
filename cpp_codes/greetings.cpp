@@ -5,3 +5,6 @@ int main() {
     cout << "Greetings, CS 1205!" << endl;
     return 0;
 }
+
+
+// Magbojos Attendance
